@@ -1,0 +1,32 @@
+EDUGUIDE AI — FINAL QUALIFICATION / ROUTING TEST REPORT
+
+JavaScript syntax: PASS
+Page router: PASS
+Country options: Germany only
+
+Employment path:
+- blocked before required confirmations: PASS
+- passes after date + recognition/comparability + role-language check: PASS
+- next step blocks resume until qualification passes: PASS
+
+Vocational training path:
+- blocked without German B1 evidence: PASS
+- passes after B1 + education + target training + consistency: PASS
+
+Study path:
+- blocked without programme/admission-fit confirmation: PASS
+- passes after programme-fit confirmation: PASS
+
+Routing:
+- resume requires qualification: PASS
+- outreach requires approved resume: PASS
+- application goes to Educaro Deutschland GmbH first: PASS
+- company monitoring requires Educaro forwarding: PASS
+- interview offer -> date/time -> applicant notification: PASS
+
+Extra evidence:
+- courses / internships / projects / certifications / awards / volunteering supported: PASS
+- verified vs applicant-provided states supported: PASS
+- extra evidence does not override hard qualification gates: PASS
+
+Note: PDF OCR, video speech-to-text, live recognition lookups, outbound email and inbox monitoring remain simulated front-end prototype actions until backend integrations are connected.

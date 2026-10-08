@@ -1,0 +1,39 @@
+EDUGUIDE AI — UPDATED DEMO FLOW
+
+1. Journey
+   - Germany is the only destination.
+   - Choose Study, Vocational Training, or Employment.
+
+2. Profile Builder
+   - Review education, experience, skills and languages.
+   - Note the extra evidence categories: courses, internships, projects, certifications, awards and leadership.
+
+3. Evidence & Documents
+   - Upload core and extra evidence.
+   - Add extra items with the supporting document filename.
+   - Mark extra evidence verified to strengthen role fit / interview readiness.
+
+4. Introduction Video
+   - Analyze a short introduction video for background, motivation and career goals.
+
+5. Qualification
+   - Run the pathway-specific rule engine.
+   - Resolve every hard blocker.
+   - The applicant cannot proceed to Resume while mandatory evidence is unresolved.
+
+6. Next Step
+   - PASSED -> Verified Resume.
+   - BLOCKED / NEEDS EVIDENCE -> reason-specific recovery plan.
+
+7. Verified Resume
+   - Core verified evidence + extra evidence sections.
+   - Interview-readiness signal is shown separately from qualification.
+
+8. Educaro Outreach
+   - Applicant -> Educaro Deutschland GmbH -> matched company.
+   - The applicant does not email companies directly.
+
+9. Interview Monitor
+   - Activate only after Educaro forwarding.
+   - Simulate a company interview offer.
+   - The UI extracts date/time and creates an applicant notification.
